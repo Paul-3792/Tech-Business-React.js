@@ -1,0 +1,31 @@
+.blog1{
+    /* font-size: 25px; */
+    box-shadow: 8px 8px 8px;
+    border-radius: 15px;
+    width: 20rem;
+    height: 20rem;
+    filter: brightness(0.8);
+    /* background-color:grey; */
+}
+.blog-data{
+    /* margin-top: 20px; */
+    padding-top: 5px;
+    margin-bottom: 5px;
+    font-size: 19px;
+}
+
+.blog1:hover{
+    width: 21rem;
+    height: 21rem;
+    filter: brightness(0.7);
+}
+
+.blog-1{
+    font-size: 20px;
+}
+
+.Star{
+    margin-top: 1px;
+    font-size: 20px;
+    color: yellow;
+}

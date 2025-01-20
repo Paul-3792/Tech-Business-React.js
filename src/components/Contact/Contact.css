@@ -1,0 +1,58 @@
+.contact-data{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+}
+
+.contact-list{
+    list-style: none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* margin-top: 20px; */
+}
+.contact-list:hover{
+    /* color: blue; */
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.phone-no{
+    margin-top: 20px;
+    font-size: 20px;
+}
+.email{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.input-group-text-1{
+    border-radius: 10px;
+    border-color: black;
+    /* width: 200%; */
+}
+.form-control-1{
+    border-radius: 10px;
+    border-color: black;
+    width: 200px;
+}
+/* .form-control-2{
+    border-radius: 10px;
+    border-color: black;
+    width: 200%;
+} */
+#message{
+    border-color: black;
+}
+.button-submit{
+    border-radius: 20px;
+    font-size: 20px;
+    margin-top: 10px;
+    width: 40%;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.button-submit:hover{
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    background-color: black;
+    color: white;
+}

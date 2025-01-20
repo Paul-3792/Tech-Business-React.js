@@ -1,0 +1,102 @@
+/* Cards */
+.image1{
+    width: 20rem;
+    height: 20rem;
+    /* border-radius: 5px; */
+    box-shadow: 5px 5px 5px;
+    background-image: url(../images/Phone-Repair.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(0.9);
+    border-radius: 10px;
+}
+.image1:hover{
+    width: 22rem;
+    height: 22rem;
+    box-shadow: 8px 8px 8px;
+    filter: brightness(0.6);
+}
+.image2{
+    width: 20rem;
+    height: 20rem;
+    /* border-radius: 5px; */
+    box-shadow: 5px 5px 5px;
+    background-image: url(../images/Programming.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(0.9);
+    border-radius: 10px;
+}
+.image2:hover{
+    width: 22rem;
+    height: 22rem;
+    box-shadow: 8px 8px 8px;
+    filter: brightness(0.6);
+}
+.image3{
+width: 20rem;
+    height: 20rem;
+    /* border-radius: 5px; */
+    box-shadow: 5px 5px 5px;
+    background-image: url(../images/AI.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(0.9);
+    border-radius: 10px;
+}
+.image3:hover{
+    width: 22rem;
+    height: 22rem;
+    filter: brightness(0.6);
+    box-shadow: 8px 8px 8px;
+}
+.image4{
+width: 20rem;
+    height: 20rem;
+    /* border-radius: 5px; */
+    box-shadow: 5px 5px 5px;
+    background-image: url(../images/Graphics\ Design.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(0.9);
+    border-radius: 10px;
+}
+.image4:hover{
+    width: 22rem;
+    height: 22rem;
+    filter: brightness(0.6);
+    box-shadow: 8px 8px 8px;
+}
+.image5{
+    width: 20rem;
+    height: 20rem;
+    /* border-radius: 5px; */
+    box-shadow: 5px 5px 5px;
+    background-image: url(../images/PhoneTracking.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(0.9);
+    border-radius: 10px;
+}
+.image5:hover{
+    width: 22rem;
+    height: 22rem;
+    box-shadow: 8px 8px 8px;
+    filter: brightness(0.6);
+}
+.skills{
+    color: white;
+    padding-top: 250px;
+}
+
+.tracking-card{
+    margin-top: 25px;
+}
+/* Background-image */
+/* .image{
+    background-image: url(../images/Skills.jpg);
+    background-position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(0.7);
+} */

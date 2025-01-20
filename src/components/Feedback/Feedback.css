@@ -1,0 +1,33 @@
+.feedback-form{
+    background-image: url(../images/Tech\ 3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: relative;
+    border-radius: 20px;
+}
+.input-group{
+    /* border-color: black; */
+    margin-top: 10px;
+    /* width: 45%; */
+}
+.form-control{
+    width: 90%;
+}
+.input-group-text{
+    border-radius: 20px;
+    /* border-color: black; */
+}
+.button{
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 10px;
+    width: 40%;
+    font-size: 20px;
+    background-color: transparent;
+    margin-bottom: 20px;
+}
+.button:hover{
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}

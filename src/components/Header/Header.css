@@ -1,0 +1,18 @@
+/* Navbar Section */
+ul{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    color: black;
+}
+ul:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    color: lightseagreen;
+}
+.navbar-toggler{
+    color: white;
+}
+.navbar{
+    background: lightgrey;
+}
